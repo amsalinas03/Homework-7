@@ -15,6 +15,14 @@ This is a command line app that allows users to create well-formatted READMEs fo
 2. Install NPM packages
     ```sh
     npm install
+3. Install Inquirer
+    ```sh
+    install inquirer
+    ```
+4. Run the app!
+    ```sh
+    node index.js
+    ```
 ## Contact
 
 Email: amsalinas@utexas.edu
